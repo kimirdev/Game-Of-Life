@@ -1,0 +1,2400 @@
+Generation #1
+Alive: 218
+ O OO OOO OOOO O O  
+O OO    O OOO  OOOOO
+ OO  O OO   OO   O O
+O O  O O O  O OO OOO
+OOO O  OOO    O O OO
+O    OOOOOOOOO OOO O
+OOO OO  O    OO  O  
+    OOOOOOOO O O OO 
+O OO    O O O  O  OO
+   OOO OOO O  OOO OO
+OO OOO   O   OOOO  O
+   O OOO O OOO    OO
+OO OOO   OOOO  OO   
+ OO   O OOOO OOOOOO 
+OO OO O OO  OOO OOO 
+O OOO O OO OO OOOO  
+OO O O        O  O O
+O   OOOO OOO O      
+O    OOO OO  O OOOOO
+     OO O OOO    OO 
+
+______________________________________________
+Generation #2
+Alive: 82
+OO OO O O    OOO    
+     O    O    O   O
+    O  O  O         
+    OO   O  O OO    
+  OOO               
+          OOO       
+OO O                
+      O   OO O O O  
+O O         OO      
+     OOO   OO       
+         O O    O   
+         O       OO 
+OO O                
+      O           O 
+O   O O             
+      O OOOOO       
+              O  OOO
+       O O OOO O    
+O            OO O   
+O              O    
+
+______________________________________________
+Generation #3
+Alive: 84
+OO  OO         OO  O
+O  O OOO O     O    
+    O O  OOO  OO    
+     O              
+   OOO    O OO      
+ O  O      O        
+                    
+O O        O OO     
+     O O  O  OO     
+      O   OO O      
+      O O  OO    O  
+          O      O  
+                 OOO
+OO   O             O
+      O  OOO        
+     O O OOO      OO
+       O      O   O 
+            O  OOOOO
+             O  O   
+O               O  O
+
+______________________________________________
+Generation #4
+Alive: 86
+ O  OO         OO   
+OO O   OOO         O
+    O  OOOO   OO    
+   O  O  O  OOO     
+   O O     OO       
+   OOO     OO       
+ O          O       
+            OOO     
+      O   O         
+     OO  OO  OO     
+       O O  O       
+           O    OO  
+                 O O
+O         O        O
+     OO OO O      O 
+       O O O      OO
+      O O OO   OO   
+             OOOO OO
+O                   
+ O              OO O
+
+______________________________________________
+Generation #5
+Alive: 108
+ O  O   O      OOOOO
+OOOO OOO  O   O O   
+O OOO O   O   OO    
+   O OOO O  O OO    
+  OO OO   O         
+  OO O       O      
+    O               
+           OOO      
+     OO  OOOO       
+     OOOOOOO O      
+      O OO OOO      
+                OOO 
+O               OO O
+O        OO        O
+O     OOOO O      O 
+     O     OO    OOO
+       OOOOOO   O   
+              O OO O
+O             O     
+ O             OOO  
+
+______________________________________________
+Generation #6
+Alive: 88
+   OOOOO      O   OO
+      OO O    O   O 
+O       OOOO    O   
+ O     O OOO OOO    
+       O     OO     
+  O  OO             
+   OO        O      
+     O       O      
+     O              
+             O      
+     OO    O O   O  
+            O   O OO
+O               O   
+ O     O OO      O  
+O     OOOO OO    O  
+                 OOO
+        OOO OO OO  O
+        OOOO O  OO  
+O             O   O 
+ O            O    O
+
+______________________________________________
+Generation #7
+Alive: 102
+O   OO OO    OOO  OO
+    O    O     O OO 
+      O    OOO      
+       O   O O O    
+       OO O OO O    
+   OOOO      OO     
+   OO O             
+     O              
+                    
+     OO     O       
+             O   OO 
+            O   O OO
+O               O OO
+OO    OO OOO    OO  
+O     OO O O    OO O
+O            O   O O
+        O   OOOO   O
+        O  O O  OOOO
+O        OO  OOO OOO
+    OOO      OOO    
+
+______________________________________________
+Generation #8
+Alive: 83
+   O   OO    O   OOO
+    O OOO      OOOO 
+          OO O  O   
+      OOO O         
+    OO OO  O   O    
+   O  O     OOO     
+   O  O             
+    OO              
+     OO             
+                    
+            OO   OOO
+O               O   
+ O        OO   OO   
+ O    OO O O   O    
+      OO O OO       
+       OO    O O O  
+               O    
+        O OO        
+O    O   OO         
+    O OOOO  O    O  
+
+______________________________________________
+Generation #9
+Alive: 88
+   OO              O
+      O OO  O OO   O
+     O    OO   OO   
+     OO O O O       
+    OO  OO OOOO     
+   O  O     OOO     
+   O  O      O      
+    O               
+    OOO             
+                  O 
+                 OOO
+O          OO  OO OO
+OO        OO   OO   
+      OO O     OO   
+         O OO O O   
+      OOO   O O O   
+       OOO    O O   
+          OO        
+     OO             
+    OOO   O      O O
+
+______________________________________________
+Generation #10
+Alive: 101
+O  OO OO O         O
+    OO   OOO  OOO   
+     O  O O OOOOO   
+      OOO     OO    
+    O   OOO   O     
+   O  OO   O        
+   OOO      OOO     
+   OO O             
+    OO              
+     O           OOO
+O               O   
+ O        OOO  O    
+OO        OOO O     
+        OO  O O  O  
+         OOOO O OO  
+      O   OOO O OO  
+      O  OOO O      
+      OOOOO         
+    O O   OO        
+   O  O           O 
+
+______________________________________________
+Generation #11
+Alive: 89
+   O  OOOO     O   O
+   O   O   OO   O   
+    OO  O O O       
+     OO   OO    O   
+     O   OO   OO    
+   O  OOOOOOO O     
+  O    O    OO      
+      O      O      
+   O  O           O 
+    OO           OOO
+O          O    OOOO
+ O        O OO O    
+OO            OO    
+        O     O OO  
+        O     O   O 
+              O OO  
+     OO      O      
+      O O   O       
+      O O OO        
+   O  O   O        O
+
+______________________________________________
+Generation #12
+Alive: 88
+  OOO O OOOO        
+   O O    OOO       
+    OO O OO O       
+      O        O    
+    OO      OOOO    
+      OO    O OO    
+         OO   O     
+      OO    OO      
+    O O          OOO
+O   OO          O   
+O          OO   O   
+ O         OOO O OO 
+OO                  
+             OO OO  
+             OO   O 
+             OOO O  
+     OOO     O      
+      O  O OO       
+     OO   OO        
+     OO   OO        
+
+______________________________________________
+Generation #13
+Alive: 81
+  OO  OO            
+  O    O    O       
+    OO   OO O       
+      O    OO  O    
+     O O    O   O   
+     OO    OO       
+        O  OO OO    
+     OOO     O    O 
+    O OO         OOO
+O   OO          O O 
+OO         O O OO  O
+ O         O O  OO O
+OO             O  O 
+             OOO O  
+            O     O 
+      O     O  O    
+     OOO     O      
+           OO       
+       O O          
+   O        O       
+
+______________________________________________
+Generation #14
+Alive: 87
+  OO  OO            
+  O OO OO  O        
+     OO   O OO      
+    O O   O OO      
+     O O     O      
+     OOO       O    
+           O  O     
+     O  O   OOO  OOO
+    O  O            
+ O  OOO        OO   
+ O            OO    
+  O              O  
+OO          OO O  OO
+             OOOOOOO
+            O  OO   
+     OOO    OO      
+     OOO   O O      
+       OO   O       
+           OO       
+  OO  OOO           
+
+______________________________________________
+Generation #15
+Alive: 82
+ O                  
+  O O   O  OO       
+   O     OO  O      
+    O  O      O     
+    O  O    OOO     
+     O O      O     
+     O O    O OO  O 
+            OOO   O 
+    O  O     OOOOOO 
+    OOO       OOO   
+ OO  O        OO    
+  O          O OO OO
+OO          OO O    
+                    
+      O     O     O 
+     O O   O OO     
+     O     O O      
+       OO    O      
+      O    OO       
+  OO  O O           
+
+______________________________________________
+Generation #16
+Alive: 86
+ O     O            
+  OO     OOOO       
+   OO   OOOOOO      
+   OO   O   O O     
+    OO OO     OO    
+    OO OO   O       
+            O  O    
+      O     O     OO
+    O O     O     O 
+   OO O             
+ OOOOOO      O   O  
+  O         OO  O  O
+OO          OO OO  O
+            OO      
+      O     OO      
+     O     O OO     
+       OO    O      
+      OO   O O      
+      O O   O       
+  O    O            
+
+______________________________________________
+Generation #17
+Alive: 78
+ O O    O OO        
+  OOO        O      
+        O           
+          O O OO    
+         O    OO    
+    OO OO    OOO    
+     OOO   OOO      
+     O     OOO    OO
+   OO OO          OO
+      OO            
+ O    O     OO      
+    OO         OOOOO
+OO         O   OO  O
+O          O        
+           O        
+      OO      O     
+       OO    O      
+      O      O      
+      O O   O       
+      OOO           
+
+______________________________________________
+Generation #18
+Alive: 72
+   OO   OO          
+  OOO    O          
+   O         OO     
+         O   OOO    
+        OO      O   
+    OO OO      O    
+       OO  O        
+           O O    OO
+    O  O    O     OO
+                    
+      OO        OOO 
+ O   O      O OO OOO
+ O             O    
+OO        OOO      O
+                    
+      OOO           
+        O    OO     
+      O O   OO      
+     OO O           
+      O O  O        
+
+______________________________________________
+Generation #19
+Alive: 83
+  O OO OOOO         
+  O     OO          
+  OOO        O O    
+        OO   O O    
+       O O      O   
+      O             
+      OOO   O       
+       OO  O      OO
+            O     OO
+      OO           O
+      O        OO  O
+O     O       OO   O
+ OO         OOOOO   
+OO         O        
+O      O   O        
+       OO           
+      O OO  OOO     
+     OO OO  OOO     
+     OO OO  O       
+    O O O           
+
+______________________________________________
+Generation #20
+Alive: 75
+    OOO   O         
+ OO  O O  O         
+  OO                
+   O    OO     OO   
+       O O          
+      O             
+      O O           
+      O O  OO     OO
+O     O O           
+O     OO           O
+     OO       OOO OO
+OO                 O
+  O         OO  O  O
+O O        O OOO    
+OO     OO           
+      O  O  OO      
+     OO     O O     
+          OO  O     
+    O       O       
+   OO     O         
+
+______________________________________________
+Generation #21
+Alive: 80
+  O   O  OOO        
+ OO  O              
+ O OO   OO          
+  OO    OO          
+       O O          
+      O O           
+     OO             
+     OO OO         O
+O    OO O         O 
+O              O  O 
+ O   OOO       O  O 
+ O           OO OO  
+  O         OO O   O
+O O          OOO   O
+OO     OO           
+     OO O   OO      
+     OO   O O O     
+     O     OO       
+   OO     O         
+   O       O        
+
+______________________________________________
+Generation #22
+Alive: 92
+ OOO      OO        
+ O  OO  O           
+ O  O   OO          
+  OOO  O  O         
+       O O          
+     OO O           
+        OO          
+    O   OO         O
+O    OO OO        O 
+OO               OO 
+OO    O        O  OO
+OOO   O     OO  OOO 
+  O         O     OO
+  O         OO O   O
+OO    OOO   O      O
+     O  OO OOO      
+    O  O            
+     OO   O OO      
+   OO     O O       
+  OOO    O O        
+
+______________________________________________
+Generation #23
+Alive: 88
+ O   O   OOO        
+OO  OO  O O         
+ O     OOO          
+  OOO  O  O         
+   OOO O O          
+      O             
+     O              
+     O    O        O
+OO   O OOO       OO 
+     OOO         O  
+                    
+  O         OO  O   
+  OO       O  O O   
+  O    O   OOO      
+OO    OOOO    O    O
+O    O   O OOO      
+    O  OOOO         
+   O OO     OO      
+  O      OO OO      
+ O       O  O       
+
+______________________________________________
+Generation #24
+Alive: 108
+ OO OO  O  O        
+OOO OOOO   O        
+OO   OOO  O         
+  O  O O  O         
+  O  O OO           
+      O             
+     OO             
+O   OO  OO        OO
+O   OO OOO       OOO
+     O O         OO 
+      O             
+  OO        OO O    
+ OOO       O  OO    
+O OO  OO  OOOOOO    
+OO    OO O    O    O
+OO   O     OOO     O
+    O  OOOO         
+   OOOOO    OO      
+  O      OO         
+ OO     O   OO      
+
+______________________________________________
+Generation #25
+Alive: 84
+    O   O  O        
+        O OO        
+O  O    O OO        
+  O OO   O          
+     O OO           
+                    
+    O OO           O
+O        O       O  
+O      O O          
+    OO O         O  
+      O             
+ O O        OO O    
+    O     O     O   
+   O  OOO OOO      O
+     O OO      O    
+ O   O     OOO     O
+O  O   OOOO         
+   OOOOO   O        
+ OO OOOOOO O        
+        O OOO       
+
+______________________________________________
+Generation #26
+Alive: 73
+       OO           
+       OO   O       
+   OO   O  O        
+   OOOOO OO         
+    OOO O           
+     O  O           
+                    
+O     OO           O
+      O             
+     O OO           
+    OOO             
+                    
+  OOO  O OO  O      
+    OOO O OO        
+O   OO  OOO  O      
+O   O     OOO       
+O OO   OOOO         
+ O         O        
+  O      O          
+   OO O     O       
+
+______________________________________________
+Generation #27
+Alive: 61
+      O O           
+         O          
+   O      OO        
+         OO         
+   O    O           
+    OOOO            
+      OO            
+      OO            
+     O  O           
+    O  O            
+    OOOO            
+      O             
+   OO OOOOOO        
+      O    OO       
+   O  OOO           
+O   OO O    O      O
+O OO    OO  O       
+ O O                
+  OO                
+   O   OO           
+
+______________________________________________
+Generation #28
+Alive: 64
+        OO          
+         OO         
+           O        
+         OOO        
+    OOOOOO          
+    OO  O           
+        O           
+     O  O           
+     O  O           
+    O  OO           
+    O  O            
+   O     OO         
+      O OOOOO       
+   OO      OO       
+    O   O  OO       
+OOO OO   O         O
+O OO    O          O
+ O  O               
+   OO               
+  OO   OO           
+
+______________________________________________
+Generation #29
+Alive: 72
+       O  O         
+        OOO         
+           O        
+     OOO O O        
+    O OO            
+    O               
+    OO OOO          
+       OOO          
+    OOO OO          
+    OOOOO           
+   OO  O O          
+       O            
+   OO   O   O       
+   OOO OO    O      
+OOO       OOO       
+  O OO  OO         O
+     O             O
+OO  O               
+    O               
+  OOO  OOO          
+
+______________________________________________
+Generation #30
+Alive: 72
+   O   O  O         
+        OOOO        
+      OO   O        
+     O OO O         
+    O  OO           
+   OO               
+    OOOO O          
+          O         
+    O               
+                    
+   OO               
+       O            
+   O OO O           
+ O   O OOO   O      
+OOO   OO  OOO       
+  OOOO   OOO       O
+ O O O             O
+O   OO              
+ OO OO  O           
+   OO  OOO          
+
+______________________________________________
+Generation #31
+Alive: 66
+   OO  O   O        
+      O OO O        
+      O    O        
+     O   O          
+   OOOOOOO          
+   O                
+   OOOO             
+    O O             
+                    
+   OO               
+                    
+   O OOO            
+    OO   O          
+OO  OO   OOOO       
+O      O    O       
+     O   O  O      O
+ O    O   O        O
+O     O             
+ OO   OOOO          
+     OOO O          
+
+______________________________________________
+Generation #32
+Alive: 79
+    O    O          
+     OO O  OO       
+     OOOOO          
+         OO         
+   O OOOOO          
+  O     O           
+   O  O             
+   OO O             
+   OOO              
+                    
+   O OO             
+     OO             
+   O    OO O        
+OO  OOO OOOOO       
+OO  OOO OO  OO     O
+      O    O       O
+     OO            O
+O O  OO OO          
+ O       O          
+  OOOO   OO         
+
+______________________________________________
+Generation #33
+Alive: 72
+      O OO O        
+    O     O         
+     O     O        
+    O     O         
+      OO  O         
+  OOOO  OO          
+  OOOO O            
+  O   O             
+   O O              
+   O  O             
+    OOO             
+     OOO            
+        O  OO       
+ OOO  O      O     O
+ O  O   O    O     O
+    O       O     OO
+O                  O
+OO   OOOOO          
+ O    O             
+  OOOO  OOO         
+
+______________________________________________
+Generation #34
+Alive: 75
+       OO  O        
+     O   OOO        
+    OO    OO        
+     OO   OO        
+      OOO O         
+  O     OO          
+ O     OO           
+  O   O             
+  OOOOO             
+   O  O             
+    O               
+    O  O            
+  O  O      O       
+ OOO   O     O      
+ O  OO      OO     O
+                  O 
+ O   OOOO         O 
+ O   OOOO          O
+OO O      O         
+  OOOOO O O         
+
+______________________________________________
+Generation #35
+Alive: 85
+   O   OO  O        
+    OOO OO  O       
+    O       O       
+    O               
+     OO O OO        
+      O             
+ OO    OOO          
+ OO O O             
+  O O OO            
+  O   O             
+   OOO              
+   OOO              
+ OO O O             
+OO O OO      O      
+OO OO       OO      
+O   O  O          OO
+O    O  O         OO
+ O  OO  OO         O
+OO O    O           
+ OOOOOO O OO        
+
+______________________________________________
+Generation #36
+Alive: 75
+           OO       
+   OOOO OO OO       
+   OO               
+    O      O        
+     OOO            
+     OO   O         
+ OOO OOOO           
+      O             
+  O   OO            
+  O   OO            
+  O   O             
+      O             
+OO    O             
+      O     OO      
+   O  O     OO      
+   OOO            O 
+ O   OOOOO          
+ OO OO OOO        O 
+      O O O         
+OO   OO O OO        
+
+______________________________________________
+Generation #37
+Alive: 62
+        O           
+   O O    OOO       
+          OOO       
+   OO O             
+    O  O            
+  O     O           
+  O O               
+ O O    O           
+     O              
+ OOO O              
+     OO             
+ O   OOO            
+     OOO            
+     OOO    OO      
+   O  O     OO      
+  OO    O           
+ O       O          
+ OO O     O         
+O O O     OO        
+     OO   O O       
+
+______________________________________________
+Generation #38
+Alive: 60
+    OOO  OO O       
+         OO O       
+   O O    O O       
+   OOO     O        
+    OO O            
+                    
+ OO                 
+  OOO               
+ O O                
+  O  O              
+ O     O            
+    O               
+    O   O           
+    O       OO      
+  OOOOO     OO      
+  OO                
+ O       O          
+O O      OOO        
+  O O    OO         
+     O   OO         
+
+______________________________________________
+Generation #39
+Alive: 47
+    OOO O           
+      O     OO      
+   O O   OO O       
+   O       O        
+   O OO             
+                    
+ OO                 
+    O               
+ O                  
+ OO                 
+                    
+                    
+   OOO              
+            OO      
+  O  O      OO      
+ O   O              
+ O O     O          
+  OO    O  O        
+ O O    O           
+   O  O O           
+
+______________________________________________
+Generation #40
+Alive: 53
+    O O             
+      OO O OOO      
+    O     O OO      
+  OO OO   OO        
+    O               
+  O                 
+                    
+ OO                 
+ OO                 
+ OO                 
+                    
+    O               
+    O               
+   O O      OO      
+            OO      
+ O  O               
+ O OO               
+ O OO   OO          
+   OO   OO          
+  OO  O OO          
+
+______________________________________________
+Generation #41
+Alive: 54
+   O  O  OO O       
+      OO  OO O      
+   OO  O O   O      
+   O O    OOO       
+  O OO              
+                    
+ OO                 
+ OO                 
+O  O                
+ OO                 
+                    
+                    
+   OOO              
+    O       OO      
+    O       OO      
+  OOO               
+OO   O              
+     O  OO          
+     O    O         
+  O     OO          
+
+______________________________________________
+Generation #42
+Alive: 63
+      O     O       
+   OOOOO   O O      
+   OOO OOO   O      
+  O  OO   OOO       
+   OOO     O        
+ OOO                
+ OO                 
+O  O                
+O  O                
+ OO                 
+                    
+    O               
+   OOO              
+            OO      
+    OO      OO      
+ OOOOO              
+ OOO O              
+    OOO  O          
+          O         
+        O  O        
+
+______________________________________________
+Generation #43
+Alive: 56
+    O O    OO       
+   O         O      
+  O     OO   O      
+  O    OOOOOO       
+ O   OO   OOO       
+ O                  
+O                   
+O  O                
+O  O                
+ OO                 
+                    
+   OOO              
+   OOO              
+   O        OO      
+  O  O      OO      
+ O    O             
+ O                  
+  OOOOO             
+     O   OO         
+           O        
+
+______________________________________________
+Generation #44
+Alive: 65
+           OO       
+   O         O      
+  OO   O   O O      
+ OO   OO     O      
+ OO   OOO   O       
+OO         O        
+OO                  
+OO                 O
+O  O                
+ OO                 
+  OOO               
+   O O              
+  O  O              
+  OO O      OO      
+  O         OO      
+ OO                 
+ O OO O             
+  OOOOO             
+   O OO   O         
+     O     OO       
+
+______________________________________________
+Generation #45
+Alive: 49
+           O O      
+  OO       O O      
+ O O  OO     OO     
+             O      
+      O O   O       
+       O            
+  O                 
+  O                O
+                   O
+ O  O               
+ O  O               
+     O              
+  O  OO             
+ OOOO       OO      
+            OO      
+ O                  
+ O    O             
+       O            
+  OO       O        
+    OOO   O O       
+
+______________________________________________
+Generation #46
+Alive: 51
+   OOO    OO O      
+  OO         O      
+   O         OO     
+      O     OOO     
+       O            
+       O            
+                    
+                    
+O                   
+O                   
+    OO              
+    OOO             
+ OO  OO             
+ OOOOO      OO      
+ O O        OO      
+                    
+                    
+  O                 
+   OOOO    O        
+   OOO    O O       
+
+______________________________________________
+Generation #47
+Alive: 35
+     O    OO O      
+  O          O      
+  OO                
+            O O     
+      OO     O      
+                    
+                    
+                    
+                    
+                    
+    O O             
+   O                
+ O                  
+O    OO     OO      
+ O O        OO      
+                    
+                    
+   OOO              
+  O   O    O        
+  O       O O       
+
+______________________________________________
+Generation #48
+Alive: 28
+          OO O      
+  OO        O       
+  OO         O      
+             O      
+             O      
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+OOO         OO      
+            OO      
+                    
+    O               
+   OOO              
+  O OO     O        
+          O O       
+
+______________________________________________
+Generation #49
+Alive: 28
+          O  O      
+  OO       OOO      
+  OO        OO      
+            OOO     
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+ O                  
+ O          OO      
+ O          OO      
+                    
+   OOO              
+                    
+     O     O        
+          O O       
+
+______________________________________________
+Generation #50
+Alive: 24
+          O  O      
+  OO       O  O     
+  OO                
+            O O     
+             O      
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+OOO         OO      
+            OO      
+    O               
+    O               
+     O              
+           O        
+          O O       
+
+______________________________________________
+Generation #51
+Alive: 22
+          O OO      
+  OO                
+  OO         O      
+             O      
+             O      
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+ O                  
+ O          OO      
+ O          OO      
+                    
+    OO              
+                    
+           O        
+          O O       
+
+______________________________________________
+Generation #52
+Alive: 22
+            OO      
+  OO        OO      
+  OO                
+            OOO     
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+OOO         OO      
+            OO      
+                    
+                    
+                    
+           O        
+          O OO      
+
+______________________________________________
+Generation #53
+Alive: 20
+              O     
+  OO        OO      
+  OO          O     
+             O      
+             O      
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+ O                  
+ O          OO      
+ O          OO      
+                    
+                    
+                    
+           OO       
+             O      
+
+______________________________________________
+Generation #54
+Alive: 22
+            O O     
+  OO         OO     
+  OO        O O     
+             OO     
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+OOO         OO      
+            OO      
+                    
+                    
+                    
+            O       
+            OO      
+
+______________________________________________
+Generation #55
+Alive: 24
+            O O     
+  OO        O OO    
+  OO        O  O    
+             OO     
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+ O                  
+ O          OO      
+ O          OO      
+                    
+                    
+                    
+            OO      
+           OO       
+
+______________________________________________
+Generation #56
+Alive: 26
+            O OO    
+  OO       OO OO    
+  OO        O  O    
+             OO     
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+OOO         OO      
+            OO      
+                    
+                    
+                    
+           OOO      
+           O        
+
+______________________________________________
+Generation #57
+Alive: 27
+            O OO    
+  OO       OO   O   
+  OO       OO  O    
+             OO     
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+ O                  
+ O          OO      
+ O          OO      
+                    
+                    
+            O       
+           OO       
+           O  O     
+
+______________________________________________
+Generation #58
+Alive: 30
+            O OO    
+  OO          O O   
+  OO       O  OO    
+            OOO     
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+OOO         OO      
+            OO      
+                    
+                    
+           OO       
+           OOO      
+           O  OO    
+
+______________________________________________
+Generation #59
+Alive: 26
+                O   
+  OO            O   
+  OO        O       
+            OOOO    
+             O      
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+ O                  
+ O          OO      
+ O          OO      
+                    
+                    
+           O O      
+          O  OO     
+           O   O    
+
+______________________________________________
+Generation #60
+Alive: 29
+               OO   
+  OO                
+  OO        O OO    
+            O O     
+            OO      
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+OOO         OO      
+            OO      
+                    
+                    
+            OOO     
+          OO OO     
+              OO    
+
+______________________________________________
+Generation #61
+Alive: 31
+              OOO   
+  OO          O O   
+  OO          OO    
+           OO OO    
+            OO      
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+ O                  
+ O          OO      
+ O          OO      
+                    
+             O      
+           OO O     
+           O        
+             O  O   
+
+______________________________________________
+Generation #62
+Alive: 36
+             OO OO  
+  OO         O  O   
+  OO            O   
+           OO  O    
+           OOOO     
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+OOO         OO      
+            OO      
+            OO      
+            OO      
+           OOO      
+           O O      
+              O O   
+
+______________________________________________
+Generation #63
+Alive: 41
+             OO OO  
+  OO         OO O   
+  OO        O  OO   
+           O  OO    
+           O OO     
+            OO      
+                    
+                    
+                    
+                    
+                    
+                    
+ O                  
+ O          OO      
+ O         O  O     
+           O  O     
+              O     
+           O  O     
+           O OO     
+            O O OO  
+
+______________________________________________
+Generation #64
+Alive: 36
+            O       
+  OO        O       
+  OO        O   O   
+           O    O   
+           O   O    
+            OOO     
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+OOO         OO      
+           O  O     
+             OOO    
+             OOO    
+            O OO    
+           O  O     
+            O   OO  
+
+______________________________________________
+Generation #65
+Alive: 41
+           OOO      
+  OO       OOO      
+  OO       OO       
+           OO  OO   
+           O OOO    
+            OOO     
+             O      
+                    
+                    
+                    
+                    
+                    
+ O                  
+ O          OO      
+ O             O    
+            O       
+            O   O   
+            O       
+           OO O O   
+           OOO      
+
+______________________________________________
+Generation #66
+Alive: 29
+          O   O     
+  OO      O         
+  OO      O         
+          O    OO   
+           O    O   
+               O    
+            OOO     
+                    
+                    
+                    
+                    
+                    
+                    
+OOO                 
+            OO      
+                    
+           OOO      
+            O  O    
+                    
+          O   O     
+
+______________________________________________
+Generation #67
+Alive: 35
+         OOO        
+  OO     OOO        
+  OO     OOO        
+          OO   OO   
+                O   
+            OOOO    
+             OO     
+             O      
+                    
+                    
+                    
+                    
+ O                  
+ O                  
+ O                  
+           O        
+           OOO      
+           OOO      
+                    
+                    
+
+______________________________________________
+Generation #68
+Alive: 32
+         O O        
+  OO    O   O       
+  OO        O       
+         O O   OO   
+           OOO  O   
+            O  O    
+               O    
+             OO     
+                    
+                    
+                    
+                    
+                    
+OOO                 
+                    
+           O        
+          O  O      
+           O O      
+            O       
+          O         
+
+______________________________________________
+Generation #69
+Alive: 41
+         OOO        
+  OO       OO       
+  OO       OO       
+          OO O OO   
+          OO OO O   
+           OOOOOO   
+             O O    
+              O     
+                    
+                    
+                    
+                    
+ O                  
+ O                  
+ O                  
+                    
+          OO        
+           O O      
+           OO       
+          OO        
+
+______________________________________________
+Generation #70
+Alive: 22
+         O          
+  OO                
+  OO         O      
+             O OO   
+                 O  
+          OO    O   
+                O   
+              O     
+                    
+                    
+                    
+                    
+                    
+OOO                 
+                    
+                    
+          OOO       
+                    
+                    
+         O          
+
+______________________________________________
+Generation #71
+Alive: 18
+                    
+  OO                
+  OO          O     
+              O O   
+               O O  
+                OO  
+               O    
+                    
+                    
+                    
+                    
+                    
+ O                  
+ O                  
+ O                  
+           O        
+           O        
+           O        
+                    
+                    
+
+______________________________________________
+Generation #72
+Alive: 18
+                    
+  OO                
+  OO           O    
+              O O   
+               O O  
+               O O  
+                O   
+                    
+                    
+                    
+                    
+                    
+                    
+OOO                 
+                    
+                    
+          OOO       
+                    
+                    
+                    
+
+______________________________________________
+Generation #73
+Alive: 19
+                    
+  OO                
+  OO           O    
+              O O   
+              OO O  
+               O O  
+                O   
+                    
+                    
+                    
+                    
+                    
+ O                  
+ O                  
+ O                  
+           O        
+           O        
+           O        
+                    
+                    
+
+______________________________________________
+Generation #74
+Alive: 19
+                    
+  OO                
+  OO           O    
+              O O   
+              O  O  
+              OO O  
+                O   
+                    
+                    
+                    
+                    
+                    
+                    
+OOO                 
+                    
+                    
+          OOO       
+                    
+                    
+                    
+
+______________________________________________
+Generation #75
+Alive: 21
+                    
+  OO                
+  OO           O    
+              O O   
+             OO  O  
+              OO O  
+               OO   
+                    
+                    
+                    
+                    
+                    
+ O                  
+ O                  
+ O                  
+           O        
+           O        
+           O        
+                    
+                    
+
+______________________________________________
+Generation #76
+Alive: 21
+                    
+  OO                
+  OO           O    
+             OO O   
+             O   O  
+             O   O  
+              OOO   
+                    
+                    
+                    
+                    
+                    
+                    
+OOO                 
+                    
+                    
+          OOO       
+                    
+                    
+                    
+
+______________________________________________
+Generation #77
+Alive: 27
+                    
+  OO                
+  OO          OO    
+             OOOO   
+            OO  OO  
+             O O O  
+              OOO   
+               O    
+                    
+                    
+                    
+                    
+ O                  
+ O                  
+ O                  
+           O        
+           O        
+           O        
+                    
+                    
+
+______________________________________________
+Generation #78
+Alive: 22
+                    
+  OO                
+  OO         O  O   
+            O    O  
+            O    O  
+            OO   O  
+                    
+              OOO   
+                    
+                    
+                    
+                    
+                    
+OOO                 
+                    
+                    
+          OOO       
+                    
+                    
+                    
+
+______________________________________________
+Generation #79
+Alive: 27
+                    
+  OO                
+  OO                
+            OO  OO  
+           OO   OOO 
+            OO      
+             OOOO   
+               O    
+               O    
+                    
+                    
+                    
+ O                  
+ O                  
+ O                  
+           O        
+           O        
+           O        
+                    
+                    
+
+______________________________________________
+Generation #80
+Alive: 23
+                    
+  OO                
+  OO                
+           OOO  O O 
+           O    O O 
+           O        
+            OO OO   
+                    
+                    
+                    
+                    
+                    
+                    
+OOO                 
+                    
+                    
+          OOO       
+                    
+                    
+                    
+
+______________________________________________
+Generation #81
+Alive: 20
+                    
+  OO                
+  OO        O       
+           OO       
+          OO        
+           O   OOO  
+            O       
+                    
+                    
+                    
+                    
+                    
+ O                  
+ O                  
+ O                  
+           O        
+           O        
+           O        
+                    
+                    
+
+______________________________________________
+Generation #82
+Alive: 21
+                    
+  OO                
+  OO       OO       
+          O O       
+          O     O   
+          OOO   O   
+                O   
+                    
+                    
+                    
+                    
+                    
+                    
+OOO                 
+                    
+                    
+          OOO       
+                    
+                    
+                    
+
+______________________________________________
+Generation #83
+Alive: 23
+                    
+  OO                
+  OO       OO       
+          O O       
+         OO O       
+          OO   OOO  
+           O        
+                    
+                    
+                    
+                    
+                    
+ O                  
+ O                  
+ O                  
+           O        
+           O        
+           O        
+                    
+                    
+
+______________________________________________
+Generation #84
+Alive: 25
+                    
+  OO                
+  OO       OO       
+         OO OO      
+         O  O   O   
+         O  O   O   
+          OO    O   
+                    
+                    
+                    
+                    
+                    
+                    
+OOO                 
+                    
+                    
+          OOO       
+                    
+                    
+                    
+
+______________________________________________
+Generation #85
+Alive: 27
+                    
+  OO                
+  OO      OOOO      
+         OO  O      
+        OO  O       
+         O  O  OOO  
+          OO        
+                    
+                    
+                    
+                    
+                    
+ O                  
+ O                  
+ O                  
+           O        
+           O        
+           O        
+                    
+                    
+
+______________________________________________
+Generation #86
+Alive: 31
+                    
+  OO       OO       
+  OO     OOOOO      
+        O    O      
+        O  OOO  O   
+        OO  O   O   
+          OO    O   
+                    
+                    
+                    
+                    
+                    
+                    
+OOO                 
+                    
+                    
+          OOO       
+                    
+                    
+                    
+
+______________________________________________
+Generation #87
+Alive: 29
+                    
+  OO         O      
+  OO     OO  O      
+        O     O     
+       OO  O O      
+        OO   O OOO  
+         OOO        
+                    
+                    
+                    
+                    
+                    
+ O                  
+ O                  
+ O                  
+           O        
+           O        
+           O        
+                    
+                    
+
+______________________________________________
+Generation #88
+Alive: 33
+                    
+  OO                
+  OO     O   OO     
+       OO O OOO     
+       O    OO OO   
+       O   O  O O   
+        OOO     O   
+          O         
+                    
+                    
+                    
+                    
+                    
+OOO                 
+                    
+                    
+          OOO       
+                    
+                    
+                    
+
+______________________________________________
+Generation #89
+Alive: 36
+                    
+  OO                
+  OO    OO  O O     
+       OOO O        
+      OO        O   
+       O OOOOOO OO  
+        OOOO   O    
+          O         
+                    
+                    
+                    
+                    
+ O                  
+ O                  
+ O                  
+           O        
+           O        
+           O        
+                    
+                    
+
+______________________________________________
+Generation #90
+Alive: 35
+                    
+  OO                
+  OO   O OO         
+      O  OO         
+      O      O OOO  
+      OO    OOO OO  
+        O    OOOO   
+          OO        
+                    
+                    
+                    
+                    
+                    
+OOO                 
+                    
+                    
+          OOO       
+                    
+                    
+                    
+
+______________________________________________
+Generation #91
+Alive: 34
+                    
+  OO                
+  OO    OOO         
+      OOOOO     O   
+     OO     OO O O  
+      OO    O       
+       O   O    OO  
+              OO    
+                    
+                    
+                    
+                    
+ O                  
+ O                  
+ O                  
+           O        
+           O        
+           O        
+                    
+                    
+
+______________________________________________
+Generation #92
+Alive: 35
+                    
+  OO     O          
+  OO      O         
+     OO   OO    O   
+     O   O OOO  O   
+     O O   OOO   O  
+      OO       OO   
+               OO   
+                    
+                    
+                    
+                    
+                    
+OOO                 
+                    
+                    
+          OOO       
+                    
+                    
+                    
+
+______________________________________________
+Generation #93
+Alive: 40
+                    
+  OO                
+  OOO    OOO        
+    OOO  O          
+    OO       O  OO  
+     O OO OO OOO O  
+      OO    O OO O  
+               OO   
+                    
+                    
+                    
+                    
+ O                  
+ O                  
+ O                  
+           O        
+           O        
+           O        
+                    
+                    
+
+______________________________________________
+Generation #94
+Alive: 39
+                    
+  O O     O         
+  O      OO         
+      O  O          
+       OOOO OO OOO  
+    OO OO  O     OO 
+      OOO  OO    O  
+              OOO   
+                    
+                    
+                    
+                    
+                    
+OOO                 
+                    
+                    
+          OOO       
+                    
+                    
+                    
+
+______________________________________________
+Generation #95
+Alive: 37
+                    
+   O     OO         
+   O     OO         
+       O   O    O   
+     O    OOO   OOO 
+     O       O    O 
+     OO O  OO  O OO 
+       O       OO   
+               O    
+                    
+                    
+                    
+ O                  
+ O                  
+ O                  
+           O        
+           O        
+           O        
+                    
+                    
+
+______________________________________________
+Generation #96
+Alive: 40
+                    
+         OO         
+        OO O        
+         O  O   O   
+      O   OOO   O O 
+    OO    O  O     O
+     OOO    O OO OO 
+      OO      OO O  
+               OO   
+                    
+                    
+                    
+                    
+OOO                 
+                    
+                    
+          OOO       
+                    
+                    
+                    
+
+______________________________________________
+Generation #97
+Alive: 42
+                    
+        OOO         
+        O  O        
+        OO  O    O  
+     O   OO OO   O  
+    O  O  O  OOOO  O
+    O  O       O OO 
+     O O     O   OO 
+              OOO   
+                    
+                    
+                    
+ O                  
+ O                  
+ O                  
+           O        
+           O        
+           O        
+                    
+                    
+
+______________________________________________
+Generation #98
+Alive: 44
+         O          
+        OOO         
+       O   O        
+        O   OO      
+          O O  O OO 
+    OOO OOOOOO O    
+    OO OO    O O   O
+      O           O 
+              OOOO  
+               O    
+                    
+                    
+                    
+OOO                 
+                    
+                    
+          OOO       
+                    
+                    
+                    
+
+______________________________________________
+Generation #99
+Alive: 46
+        OOO         
+        OOO         
+       O  OOO       
+            OO      
+     O OO O     O   
+    O O O O  O O  O 
+    O   O OO O      
+     OOO         OO 
+              OOOO  
+              OO    
+                    
+                    
+ O                  
+ O                  
+ O                  
+           O        
+           O        
+           O        
+                    
+                    
+
+______________________________________________
+Generation #100
+Alive: 55
+        O O         
+       O            
+        O O OO      
+      OOOOO OO      
+     OOOO  OOOO     
+    O O O O O O     
+    O   O OOO O  OO 
+     OOO      OO OO 
+      O       O  OO 
+              O     
+                    
+                    
+                    
+OOO                 
+                    
+                    
+          OOO       
+                    
+                    
+         O          
+
+______________________________________________
